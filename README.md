@@ -1,8 +1,8 @@
 ### 👋 ¡Hola! / Hi! 
 
-🇪🇸 Estudiante de Ingeniería Informática especializado en Tecnologías de la Información en Ciudad Real, España. Interesado en el desarrollo de aplicaciones móviles, en especial para Android, aunque cualquier desarrollo front-end siempre es bienvenido. 
+🇪🇸 Estudiante de Ingeniería Informática especializado en Tecnologías de la Información en Ciudad Real, España. Interesado en el desarrollo de aplicaciones móviles, en especial para Android, aunque cualquier otro tipo de desarrollo en el que pueda aprender siempre es bienvenido. 
 
-🇬🇧 Computer Engineering student specialized in Information Technologies in Ciudad Real, Spain. Interested in mobile applications development, especially for Android, although any front-end development is always welcome. 
+🇬🇧 Computer Engineering student specialized in Information Technologies in Ciudad Real, Spain. Interested in mobile applications development, especially for Android, although any other kind of development where i can learn is always welcome. 
 
 ### ⚙️ Mis últimos trabajos / My last jobs 
 
