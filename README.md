@@ -1,8 +1,8 @@
 ### 👋 ¡Hola! / Hi! 
 
-🇪🇸 Estudiante de Ingeniería Informática especializado en Tecnologías de la Información en Ciudad Real, España. Interesado en el desarrollo de aplicaciones móviles y en el desarrollo web, con ganas de seguir aumentando mi formación. 
+🇪🇸 Graduado en Ingeniería Informática con mención en Tecnologías de la Información en Ciudad Real, España. Interesado en el desarrollo de aplicaciones móviles y en el desarrollo web, con ganas de seguir aumentando mi formación. 
 
-🇬🇧 Computer Engineering student specialized in Information Technologies in Ciudad Real, Spain. Interested in mobile application development and web development, wanting to continue increasing my training.
+🇬🇧 Graduated in Computer Engineering with a major in Information Technologies in Ciudad Real, Spain. Interested in mobile application development and web development, wanting to continue increasing my training.
 
 <!-- ### ⚙️ Mis últimos trabajos / My last jobs 
 
