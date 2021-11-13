@@ -1,4 +1,8 @@
-### 👋 ¡Hola! / Hi! 
+<p align="center">
+  <img src="Header.png" width="100%">
+</p>
+
+### 🎓 Mi formación profesional e intereses / My professional training and interests
 
 🇪🇸 Graduado en Ingeniería Informática con mención en Tecnologías de la Información en Ciudad Real, España. Interesado en el desarrollo de aplicaciones móviles y en el desarrollo web, con ganas de seguir aumentando mi formación. 
 
@@ -10,7 +14,11 @@
 - **Write it [WIP]**: 🇪🇸 Sencilla aplicación para Android para tomar notas, usando Flutter, Dart y Firebase. Sigue en desarrollo, por lo que... ¡atentos! / 🇬🇧 Simple Android application to take notes, made with Flutter, Dart and Firebase. Work in progress, so... stay tuned!: https://github.com/danielloroduran/Write-it 
 -->
 
-### 🖥️ ¡Contacta conmigo! / Contact me!
+### 🖥️ ¿El lenguaje más utilizado? ¡Estos! / The most used language? These!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielloroduran&layout=compact&hide=php,smarty,twig)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 📱 ¡Contacta conmigo! / Contact me!
 [![Web personal](https://img.shields.io/badge/Web_personal-5FB709?style=for-the-badge&logo=google-earth&logoColor=white)](https://danielloroduran.github.io)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielloroduran)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielloro/)
